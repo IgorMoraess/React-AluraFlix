@@ -1,0 +1,55 @@
+.home_content {
+  width: 100%;
+  background-color: var(--fundo);
+  display: flex;
+  overflow-x: auto;
+  gap: 0.8rem 2rem;
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.home_content > * {
+  flex: 0 0 calc(24% - 1rem);
+  max-width: calc(24% - 1rem);
+  box-sizing: border-box;
+
+  @media (max-width: 1070px) {
+    flex: 0 0 calc(33% - 1rem);
+    max-width: calc(33% - 1rem);
+  }
+
+  @media (max-width: 800px) {
+    flex: 0 0 calc(48% - 1rem);
+    max-width: calc(48% - 1rem);
+  }
+  @media (max-width: 425px) {
+    flex: 0 0 calc(98% - 1rem);
+    max-width: calc(98% - 1rem);
+  }
+}
+
+.project_info {
+  max-width: 100%;
+}
+
+.project_info h1 {
+  color: var(--border);
+}
+
+/* Estilizando a barra de rolagem */
+.home_content::-webkit-scrollbar {
+  height: 0.625rem;
+}
+
+.home_content::-webkit-scrollbar-track {
+  background: rgb(255, 255, 255);
+}
+
+.home_content::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 15px;
+}
+
+.home_content::-webkit-scrollbar-thumb:hover {
+  background: var(--main-color);
+}

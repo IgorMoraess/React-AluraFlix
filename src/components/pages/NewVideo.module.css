@@ -1,0 +1,21 @@
+.newproject_container {
+  max-width: 28.125rem;
+  width: 100%;
+  margin: 0 auto;
+  color: whitesmoke;
+  text-align: center;
+  min-height: 85vh;
+
+  @media (max-width: 700px) {
+   width: 80%;
+  }
+}
+
+.newproject_container h1 {
+  margin-bottom: 0.5em;
+}
+
+.newproject_container p {
+  color: whitesmoke;
+  font-size: 0.8rem;
+}

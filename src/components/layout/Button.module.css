@@ -1,0 +1,36 @@
+.buttonComponent:first-child {
+  margin-top: -1.7rem;
+
+  @media (max-width: 425px) {
+    margin-top: 1.7rem;
+  }
+}
+
+.buttonComponent {
+  width: 20rem;
+  font-size: 2.5rem;
+  color: white;
+  background-color: rgb(50, 78, 139);
+  margin: 2rem 0 0 3rem;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btfront {
+  background-color: var(--frontend);
+}
+
+.btback {
+  background-color: var(--backend);
+}
+
+.btmobile {
+  background-color: var(--mobile);
+}
+
+@media (max-width: 768px) {
+  .buttonComponent {
+    margin: 2rem auto;
+  }
+}

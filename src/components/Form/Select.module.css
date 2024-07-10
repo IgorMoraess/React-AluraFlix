@@ -1,0 +1,23 @@
+.form_control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.form_control label {
+  margin-bottom: 0.6em;
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.form_control select {
+  padding: 0.7em;
+  border-radius: 0;
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+.form_control option {
+  background-color: var(--fundo);
+}

@@ -1,0 +1,117 @@
+{
+  "videos": [
+    {
+      "id": "703d",
+      "img": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCT9xej2q0tV2NVNQd6zBN8fOLiWQ",
+      "title": "Como testar seu Front-end?",
+      "desc": "Por onde começar a testar as habilidades em Front-end?",
+      "url": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+      "category": {
+        "id": "1",
+        "name": "FRONT-END"
+      }
+    },
+    {
+      "id": "bc7c",
+      "img": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYeV_PfwZr-DKSKTCYDh0uhVJJRA",
+      "title": "Guia de carreira Front-end",
+      "desc": "#HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fpth65ts3cw&list=PLh2Y_pKOa4UddwTMZhqQLj_1M_g-_fUXY",
+      "category": {
+        "id": "1",
+        "name": "FRONT-END"
+      }
+    },
+    {
+      "id": "fb48",
+      "img": "https://i.ytimg.com/vi/Em0R3csNMVE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUdebIP0QIdlKrOmayLL_pJQz5DA",
+      "title": "O QUE É FRONT-END E BACK-END???",
+      "desc": "Diferença entre front-end back-end e full stack",
+      "url": "https://www.youtube.com/watch?v=Em0R3csNMVE",
+      "category": {
+        "id": "1",
+        "name": "FRONT-END"
+      }
+    },
+    {
+      "id": "dd72",
+      "title": "Roteiro Dev Back-end",
+      "desc": "Roteiro do desenvolvedor back-end 2024",
+      "img": "https://i.ytimg.com/vi/tN6oJu2DqCM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBevwmBHo4IMd-9LC4kXMc9XG2qSg",
+      "url": "https://www.youtube.com/watch?v=tN6oJu2DqCM",
+      "category": {
+        "id": "2",
+        "name": "BACK-END"
+      }
+    },
+    {
+      "id": "08c4",
+      "img": "https://i.ytimg.com/vi/4UgbU0nzprg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBm6iPuBinaJ9HkoOQr2nLmHIy4yw",
+      "title": "Backend Engineering",
+      "desc": "No-Nonsense Backend Engineering Roadmap",
+      "url": "https://www.youtube.com/watch?v=4UgbU0nzprg",
+      "category": {
+        "id": "2",
+        "name": "BACK-END"
+      }
+    },
+    {
+      "id": "18d9",
+      "img": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDalExuTlcbRJJHh8SJ3Fe0IsVeeA",
+      "title": "O que faz um Dev Back-end?",
+      "desc": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "category": {
+        "id": "2",
+        "name": "BACK-END"
+      }
+    },
+    {
+      "id": "96c1",
+      "img": "https://i.ytimg.com/vi/fWscDFHKgw8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGWxeg1S9RgOFxwlcvrHHXb4lbFA",
+      "title": "Desenvolvimento Android",
+      "desc": "Desenvolvimento Android #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+      "category": {
+        "id": "3",
+        "name": "MOBILE"
+      }
+    },
+    {
+      "id": "e2e5",
+      "img": "https://i.ytimg.com/vi/X-XfVvd41O8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuDOGYH9nosWJ5x4pMB5Mp8eNHZw",
+      "title": "Como se tornar um DESENVOLVEDOR MOBILE?",
+      "desc": "Como se tornar um DESENVOLVEDOR MOBILE? (Roadmap - PASSO A PASSO para iniciantes)",
+      "url": "https://www.youtube.com/watch?v=X-XfVvd41O8",
+      "category": {
+        "id": "3",
+        "name": "MOBILE"
+      }
+    },
+    {
+      "id": "ab12",
+      "img": "https://i.ytimg.com/vi/uS1cS-7HRrM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQc6cUFyjZ3tZyjrlYzwcN8KRXkw",
+      "desc": "5 dicas de estudo pra um INICIANTE no desenvolvimento de aplicativos Android",
+      "title": "5 dicas de estudo Dev Android",
+      "url": "https://www.youtube.com/watch?v=uS1cS-7HRrM",
+      "category": {
+        "id": "3",
+        "name": "MOBILE"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "FRONT-END"
+    },
+    {
+      "id": "2",
+      "name": "BACK-END"
+    },
+    {
+      "id": "3",
+      "name": "MOBILE"
+    }
+  ]
+}

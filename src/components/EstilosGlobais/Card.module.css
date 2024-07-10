@@ -1,0 +1,90 @@
+.front-end {
+  width: 300px;
+  border: 3px solid var(--frontend);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.back-end {
+  width: 300px;
+  border: 3px solid var(--backend);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.mobile {
+  width: 300px;
+  border: 3px solid var(--mobile);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.625rem;
+  background-color: black;
+  @media (max-width: 900px) {
+    padding: 0;
+  }
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.icon h3 {
+  font-size: 1.3rem;
+  @media (max-width: 900px) {
+    font-size: 1rem;
+  }
+}
+
+.icon svg {
+  cursor: pointer;
+  font-size: 1.3em;
+  color: var(--border);
+  @media (max-width: 900px) {
+    font-size: 1.3rem;
+  }
+}
+
+.icon svg:hover {
+  cursor: pointer;
+  font-size: 1.6em;
+  color: red;
+  @media (max-width: 900px) {
+    font-size: 1.4rem;
+  }
+}
+
+.title {
+  margin: 10px;
+  font-size: 1.5em;
+  color: white;
+}
+
+.description {
+  margin: 10px;
+  color: #555;
+}
